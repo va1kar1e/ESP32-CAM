@@ -11,7 +11,7 @@ About ESP32-CAM with ESP32-CAM-MB
 
 # Install the ESP32-CAM-MB Drivers for Windows 10
 
-!!! Use with **ESP32-CAM-MB**
+!!! Use with **CH340 IC**
 
 [CH341SER.zip](Images/CH341SER.zip)
 
